@@ -1,0 +1,424 @@
+-- Participant 8
+0:8:1.350 --> 0:8:2.30
+Interviewer
+Looks like it's working.
+0:8:5.470 --> 0:8:5.950
+Interviewer
+OK, Sir.
+0:8:6.290 --> 0:8:10.500
+Interviewer
+The hello and thank you for agreeing to participate in our research today.
+0:8:10.790 --> 0:8:11.480
+Interviewer
+My name is Andy.
+0:8:11.490 --> 0:8:13.50
+Interviewer
+I'm with stickerme.com.
+0:8:13.410 --> 0:8:17.920
+Interviewer
+We're in the process of creating personas that will help us better understand our customers, improve our website.
+0:8:18.350 --> 0:8:20.700
+Interviewer
+This interview should take approximately 15 minutes.
+0:8:20.710 --> 0:8:27.900
+Interviewer
+We'll be recording it and to ensure accuracy and we won't be sharing the recording with anyone outside of our team.
+0:8:28.430 --> 0:8:29.980
+Interviewer
+Do you have any questions before we get started?
+0:8:31.600 --> 0:8:32.610
+Candidate
+Nope, no questions.
+0:8:33.610 --> 0:8:34.220
+Interviewer
+All right.
+0:8:34.750 --> 0:8:36.360
+Interviewer
+First question, do you use stickers?
+0:8:37.580 --> 0:8:39.290
+Candidate
+Assure do you use them?
+0:8:39.400 --> 0:8:40.590
+Candidate
+Use them a lot, actually.
+0:8:41.160 --> 0:8:41.460
+Interviewer
+OK.
+0:8:40.840 --> 0:8:42.510
+Candidate
+Just started getting into it a couple years back.
+0:8:43.200 --> 0:8:43.930
+Interviewer
+Oh, great.
+0:8:44.350 --> 0:8:46.850
+Interviewer
+A couple other questions before we really dive into it.
+0:8:46.860 --> 0:8:48.30
+Interviewer
+Can you tell me your age?
+0:8:49.260 --> 0:8:50.280
+Candidate
+Sure, I'm 41.
+0:8:51.250 --> 0:8:52.160
+Interviewer
+And I didn't get your name.
+0:8:52.170 --> 0:8:52.430
+Interviewer
+I'm sorry.
+0:8:53.730 --> 0:8:54.570
+Candidate
+Steve Bryson.
+0:8:55.260 --> 0:8:57.360
+Interviewer
+Bryson, OK.
+0:8:57.740 --> 0:8:58.670
+Interviewer
+And your occupation?
+0:9:0.170 --> 0:9:5.640
+Candidate
+Uh, well, aside from being a a baseball coach, I am a accountant.
+0:9:6.740 --> 0:9:7.430
+Interviewer
+OK.
+0:9:7.520 --> 0:9:8.530
+Interviewer
+And are you a parent?
+0:9:9.370 --> 0:9:9.770
+Candidate
+I am.
+0:9:10.920 --> 0:9:12.530
+Interviewer
+How many kids do you have and what their ages?
+0:9:13.360 --> 0:9:15.550
+Candidate
+Well, I've got a I've got twins.
+0:9:16.100 --> 0:9:21.810
+Candidate
+Leslie and Veronica, they're 13 and I've got another little one, Stevie.
+0:9:21.820 --> 0:9:22.830
+Candidate
+He's 7.
+0:9:22.840 --> 0:9:24.10
+Candidate
+He'll be 7 in about a month.
+0:9:24.880 --> 0:9:25.460
+Interviewer
+OK, great.
+0:9:25.150 --> 0:9:25.960
+Candidate
+It's always 6 right now.
+0:9:27.630 --> 0:9:30.240
+Interviewer
+So with regards to stickers, why do you purchase stickers?
+0:9:31.300 --> 0:9:39.590
+Candidate
+Well, I purchased them for the kids and then I also purchased them for for the team and so for the baseball team.
+0:9:39.600 --> 0:9:41.310
+Candidate
+So I started urging them for the kids.
+0:9:41.320 --> 0:9:45.890
+Candidate
+My my son is really big into a really responds well to positive reinforcement.
+0:9:45.900 --> 0:9:52.950
+Candidate
+So when I started to see the stickers that were out, there were just pretty generic and he just he just loves Marvel characters.
+0:9:52.960 --> 0:9:59.380
+Candidate
+But I wanted to kind of customize them a little bit, so I was able to to do that and so I got him for him.
+0:9:59.430 --> 0:10:2.210
+Candidate
+And then I started using them for the team O both purposes really.
+0:10:2.760 --> 0:10:3.30
+Interviewer
+OK.
+0:10:3.40 --> 0:10:4.60
+Interviewer
+How do you use them for the team?
+0:10:5.520 --> 0:10:18.190
+Candidate
+Well, uh, you know, we use them to to put on the, put some on the bats, we put them on their their tote bags that they carry their gear in.
+0:10:19.40 --> 0:10:21.150
+Candidate
+We've got some on the lockers.
+0:10:21.620 --> 0:10:28.970
+Candidate
+The thing I like about the stickers that I've been buying is that they they come off without leaving a residue too much.
+0:10:28.980 --> 0:10:33.250
+Candidate
+So we're able to get them on and then take them off again without a wrecking whatever I put them on.
+0:10:33.260 --> 0:10:35.90
+Candidate
+So they're good for incentives.
+0:10:35.100 --> 0:10:36.50
+Candidate
+They're kind of fun.
+0:10:36.60 --> 0:10:38.710
+Candidate
+We can customize and put their names on them and stuff like that.
+0:10:39.580 --> 0:10:40.210
+Interviewer
+OK, great.
+0:10:40.220 --> 0:10:43.420
+Interviewer
+And what kind of stickers do you typically see yourself using?
+0:10:44.450 --> 0:10:51.940
+Candidate
+Well, mostly ones with either pictures of the teams on them teammates or or for purpose of my kids.
+0:10:52.130 --> 0:10:59.120
+Candidate
+Sometimes I'll I'll have some custom made that have got superheroes on them or things of our creation.
+0:10:59.130 --> 0:11:2.300
+Candidate
+I've done a couple where my son drew something and I put that on there as well.
+0:11:3.40 --> 0:11:3.400
+Interviewer
+Very nice.
+0:11:4.960 --> 0:11:6.850
+Interviewer
+And what motivates you to purchase these stickers?
+0:11:8.660 --> 0:11:14.320
+Candidate
+Well, mostly just for helping to create some positive reinforcement.
+0:11:14.330 --> 0:11:19.510
+Candidate
+Letting letting kids know they're, you know, because the stickers themselves are not are not expensive.
+0:11:19.520 --> 0:11:26.680
+Candidate
+So I'm able to give them out and pretty freely and keep things light and happy and motivated, and they tend to stick around for a little while.
+0:11:26.700 --> 0:11:29.420
+Candidate
+And you know, and the kids look at them and remember what they did.
+0:11:30.360 --> 0:11:31.90
+Interviewer
+Great. Great.
+0:11:31.100 --> 0:11:33.160
+Interviewer
+How often do you, uh, typically purchase stickers?
+0:11:34.410 --> 0:11:35.200
+Candidate
+Oh boy.
+0:11:35.270 --> 0:11:39.190
+Candidate
+Last year, last year coming out of COVID, I was buying them.
+0:11:39.270 --> 0:11:41.310
+Candidate
+We were playing for that.
+0:11:41.360 --> 0:11:44.800
+Candidate
+I probably bought maybe once, once a month.
+0:11:44.810 --> 0:11:45.660
+Candidate
+I was buying stickers.
+0:11:46.580 --> 0:11:47.170
+Interviewer
+OK.
+0:11:47.860 --> 0:11:54.50
+Interviewer
+And I'm gonna discuss, or I'm gonna present you with four different factors that go into purchasing stickers.
+0:11:54.410 --> 0:11:59.770
+Interviewer
+If you could rank them in order of importance with the first one being the most important and the 4th, 1 being the least important.
+0:12:11.390 --> 0:12:11.710
+Candidate
+OK.
+0:12:0.510 --> 0:12:12.370
+Interviewer
+Umm, they are priced quality licensing which is kind of like your marble heroes thing you're talking about and customization which would be most important to you.
+0:12:12.740 --> 0:12:14.820
+Candidate
+Most important would be customization.
+0:12:15.640 --> 0:12:15.880
+Interviewer
+OK.
+0:12:16.230 --> 0:12:16.580
+Candidate
+Right.
+0:12:16.590 --> 0:12:27.890
+Candidate
+Uh, I'd say that of course, licensing too, because like I said, the the Marvel thing is was important for my son, not so much for the team.
+0:12:30.910 --> 0:12:31.850
+Candidate
+A licensing.
+0:12:31.950 --> 0:12:34.240
+Candidate
+Is it not just say licensing or customization?
+0:12:34.870 --> 0:12:41.300
+Candidate
+Anyway, Customization's important licensing as long as it's taken care of, I'm not too concerned about it.
+0:12:45.220 --> 0:12:45.380
+Interviewer
+OK.
+0:12:41.390 --> 0:12:47.200
+Candidate
+Price would probably be the last thing on the list, so I think I've got that down right.
+0:12:47.210 --> 0:12:48.530
+Candidate
+Customization #1.
+0:12:51.500 --> 0:12:55.310
+Candidate
+Uh prices the last licensing would be second to last.
+0:12:56.720 --> 0:12:59.560
+Interviewer
+So quality would be the last error.
+0:12:59.860 --> 0:13:1.800
+Interviewer
+Well, OK.
+0:12:56.250 --> 0:13:3.650
+Candidate
+And then what was the Thursday quality, quality, quality is U there qualities of the right #2 for quality.
+0:13:4.370 --> 0:13:4.610
+Interviewer
+OK.
+0:13:5.70 --> 0:13:6.320
+Candidate
+All right, good luck sorting those out.
+0:13:7.750 --> 0:13:8.400
+Interviewer
+Thanks.
+0:13:9.50 --> 0:13:11.530
+Interviewer
+Ohh, have you purchased stickers from stickerme.com?
+0:13:12.270 --> 0:13:12.690
+Candidate
+I have.
+0:13:13.410 --> 0:13:14.100
+Interviewer
+OK.
+0:13:14.190 --> 0:13:16.540
+Interviewer
+Have you purchased them from another online vendor?
+0:13:18.0 --> 0:13:23.490
+Candidate
+I have and I don't recall what it was right now.
+0:13:23.500 --> 0:13:25.580
+Candidate
+It might have bought them just off of Amazon or something.
+0:13:26.270 --> 0:13:27.260
+Interviewer
+OK, great.
+0:13:28.590 --> 0:13:33.390
+Interviewer
+Have you ever customized stickers, and if so, how do you go about doing it?
+0:13:35.360 --> 0:13:47.770
+Candidate
+Well, like I create the sticker, create the artwork for it and then on your site, if I remember correctly, there's a way of justice uploading the artwork and kind of has to fall into a couple of different minor parameters.
+0:13:47.780 --> 0:13:53.860
+Candidate
+And then from there you just just like you would make a custom T shirt or something, I guess and that's that's how I do it.
+0:13:53.870 --> 0:13:57.10
+Candidate
+So I custom I can customize the artwork like I said, sometimes it's a picture.
+0:13:57.20 --> 0:14:0.20
+Candidate
+One of the kids from the team or my son, that type of thing.
+0:14:0.980 --> 0:14:1.370
+Interviewer
+OK.
+0:14:1.730 --> 0:14:5.610
+Interviewer
+Have you ever purchased stickers as a gift for someone else, and if so, what was the occasion?
+0:14:6.880 --> 0:14:13.20
+Candidate
+Well, I guess, uh, I guess it's aside from just giving him to the kids and the team.
+0:14:14.610 --> 0:14:15.980
+Candidate
+No, I can't say that I ever gave any.
+0:14:15.990 --> 0:14:16.830
+Candidate
+Just as a gift.
+0:14:17.470 --> 0:14:17.670
+Interviewer
+OK.
+0:14:18.770 --> 0:14:23.20
+Interviewer
+With regards to websites, what do you look for when you are on a sticker website?
+0:14:23.30 --> 0:14:24.420
+Interviewer
+What features are most important to you?
+0:14:25.730 --> 0:14:29.520
+Candidate
+Well, I want to be able to find what I'm looking for fast enough.
+0:14:29.530 --> 0:14:32.630
+Candidate
+I'm going to be able to flip open my laptop.
+0:14:33.500 --> 0:14:38.480
+Candidate
+I wanna know that the shipping is not going to take too long. UM.
+0:14:41.870 --> 0:14:48.20
+Candidate
+I guess I guess just the selection, the ability to up to upload my custom artwork should be clear.
+0:14:49.130 --> 0:14:50.310
+Candidate
+Navigation should be clear.
+0:14:51.220 --> 0:14:54.210
+Interviewer
+OK, Speaking of navigation, uh, what's the?
+0:14:54.220 --> 0:14:57.110
+Interviewer
+What's the most common way that you find what you're looking for when you're honest?
+0:14:57.870 --> 0:14:59.210
+Interviewer
+The sticker website.
+0:15:3.600 --> 0:15:8.550
+Candidate
+Hopefully the everything's right up along the top menu so I can see things clearly.
+0:15:8.560 --> 0:15:21.0
+Candidate
+The most common things I want to look at customize your own choose from, you know, assorted stickers, premade and previous orders, customer support, that type of thing.
+0:15:21.820 --> 0:15:23.660
+Candidate
+Zazzle is the other one I used.
+0:15:23.670 --> 0:15:24.710
+Candidate
+I just remembered what it was.
+0:15:26.10 --> 0:15:26.270
+Interviewer
+OK.
+0:15:25.900 --> 0:15:27.240
+Candidate
+Wasn't too happy with their quality.
+0:15:28.250 --> 0:15:29.130
+Interviewer
+OK, good to know.
+0:15:30.640 --> 0:15:35.980
+Interviewer
+And then obviously you've you've indicated that customization is important to you when purchasing stickers.
+0:15:36.580 --> 0:15:39.740
+Interviewer
+Uh, is it anything that you like to add to that?
+0:15:41.740 --> 0:16:1.920
+Candidate
+No other than the fact that I like the idea that everything is really clear when it comes to customizing, I want to make sure that the dimensions and the the artwork specifications are called out so that I don't have to try to guess whether or not whatever I'm uploading is going to be accepted.
+0:16:2.820 --> 0:16:3.40
+Interviewer
+OK.
+0:16:5.800 --> 0:16:6.190
+Interviewer
+Great.
+0:16:7.390 --> 0:16:8.210
+Interviewer
+Actually, that's it.
+0:16:8.220 --> 0:16:9.600
+Interviewer
+That's the end of our questions for today.
+0:16:9.610 --> 0:16:12.560
+Interviewer
+Thank you so much for taking the time to participate in our research.
+0:16:12.910 --> 0:16:13.400
+Candidate
+You bet.
+0:16:13.410 --> 0:16:15.50
+Candidate
+It's always good being a team player.
+0:16:12.870 --> 0:16:17.330
+Interviewer
+Your feedback one that's that's right.
+0:16:17.900 --> 0:16:20.390
+Interviewer
+If you have any questions, please feel free to reach out to us at anytime.
+0:16:22.110 --> 0:16:23.230
+Candidate
+OK, sounds good.
+0:16:23.240 --> 0:16:23.620
+Candidate
+Thank you.

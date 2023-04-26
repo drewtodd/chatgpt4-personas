@@ -1,0 +1,364 @@
+-- Participant 4
+0:0:0.0 --> 0:0:1.110
+Interviewer
+And we are rolling.
+0:0:4.260 --> 0:0:7.850
+Interviewer
+Alright, Tom, thanks for agreeing to participate in a research today.
+0:0:8.240 --> 0:0:10.690
+Interviewer
+My name is Andy and I'm with stickerme.com.
+0:0:10.920 --> 0:0:15.290
+Interviewer
+We're in the process of creating personas to help us better understand our customers and improve our website.
+0:0:16.10 --> 0:0:21.480
+Interviewer
+This internship interview should take about 15 minutes, although they've been run about 5 minutes, so we'll see.
+0:0:22.70 --> 0:0:27.820
+Interviewer
+We'll be recording the session to ensure accuracy, but we won't be sharing the recording with anyone outside of our team.
+0:0:28.90 --> 0:0:29.740
+Interviewer
+Do you have any questions before we get started?
+0:0:30.820 --> 0:0:31.980
+Participant
+No, everything's cool.
+0:0:33.570 --> 0:0:34.160
+Interviewer
+Ruby.
+0:0:34.770 --> 0:0:36.920
+Interviewer
+So first question, do you use stickers?
+0:0:38.10 --> 0:0:38.650
+Participant
+Yes, I do.
+0:0:39.920 --> 0:0:40.570
+Interviewer
+Awesome.
+0:0:41.500 --> 0:0:42.750
+Interviewer
+Are you 16 years or older?
+0:0:43.470 --> 0:0:43.630
+Participant
+Yes.
+0:0:44.540 --> 0:0:45.730
+Interviewer
+OK, great.
+0:0:45.820 --> 0:0:47.300
+Interviewer
+Uh, so how old are you?
+0:0:48.660 --> 0:0:49.470
+Participant
+I'm 21.
+0:0:50.20 --> 0:0:51.790
+Interviewer
+21, OK, what's your occupation?
+0:0:54.510 --> 0:0:54.680
+Interviewer
+OK.
+0:0:52.810 --> 0:0:56.160
+Participant
+I'm a student and I got a part time job too.
+0:0:56.920 --> 0:0:57.850
+Interviewer
+OK, cool.
+0:0:58.380 --> 0:0:58.840
+Interviewer
+What do you do?
+0:1:1.730 --> 0:1:1.950
+Interviewer
+OK.
+0:0:59.930 --> 0:1:2.80
+Participant
+I work in a restaurant right now.
+0:1:2.90 --> 0:1:6.30
+Participant
+I'm just in the back of the house, but I hope to move my way up to host or server soon.
+0:1:6.830 --> 0:1:7.740
+Interviewer
+OK, cool.
+0:1:8.430 --> 0:1:13.190
+Interviewer
+So with regards to stickers, how do you typically purchase them?
+0:1:14.870 --> 0:1:16.900
+Participant
+Umm I go online.
+0:1:16.910 --> 0:1:20.420
+Participant
+I've used sticker me before and and you guys rock.
+0:1:21.290 --> 0:1:22.160
+Participant
+I like the prices.
+0:1:23.760 --> 0:1:23.980
+Interviewer
+OK.
+0:1:23.620 --> 0:1:27.240
+Participant
+Uh, I I use them and I and I buy them and I put them on.
+0:1:27.250 --> 0:1:29.910
+Participant
+Uh, I've got a I've got a motorcycle.
+0:1:29.920 --> 0:1:30.490
+Participant
+I'm working on.
+0:1:30.500 --> 0:1:32.970
+Participant
+It's not running yet, but I put them on.
+0:1:32.980 --> 0:1:35.70
+Participant
+I put them on the bike and I put them on.
+0:1:35.80 --> 0:1:39.160
+Participant
+I got out some on my laptop and I hand them out to friends and stuff like that.
+0:1:39.170 --> 0:1:39.820
+Participant
+They're kind of fun.
+0:1:40.520 --> 0:1:41.470
+Interviewer
+OK, cool.
+0:1:42.520 --> 0:1:44.40
+Interviewer
+What kinds of stickers do you like?
+0:1:46.120 --> 0:2:0.480
+Participant
+Umm, sometimes I just get him with just words on them, and sometimes I'll come U with some artwork and and I'll maybe even use some AI art like I have lately and been using that to to in combination with words or sometimes just the art itself.
+0:2:2.160 --> 0:2:2.510
+Interviewer
+Cool.
+0:2:2.670 --> 0:2:4.290
+Interviewer
+What motivates you to purchase stickers?
+0:2:5.970 --> 0:2:6.420
+Participant
+I don't know.
+0:2:6.430 --> 0:2:11.770
+Participant
+Sometimes it just kind of comes to me like I don't really know where the inspiration comes from.
+0:2:11.780 --> 0:2:17.940
+Participant
+Sometimes I'll be talking with friends and I'll think, hey, I should get him a sticker to, you know, put on something.
+0:2:18.870 --> 0:2:19.30
+Interviewer
+Cool.
+0:2:20.460 --> 0:2:22.860
+Interviewer
+And how often do you typically purchase stickers?
+0:2:24.80 --> 0:2:25.600
+Participant
+Ohh man.
+0:2:27.430 --> 0:2:28.420
+Participant
+That's a tough one.
+0:2:28.690 --> 0:2:31.970
+Participant
+I purchased him a couple times last year, so maybe twice a year.
+0:2:32.920 --> 0:2:42.690
+Interviewer
+OK, so I'm gonna list 4 qualities and I want you to rank them in order for the first being the most important and the 4th being the least important.
+0:2:42.860 --> 0:2:44.710
+Interviewer
+How would you identify these factors?
+0:2:45.40 --> 0:2:55.750
+Interviewer
+They are price quality, licensing, which might be like video games or Marvel heroes or sports teams, stuff like that, and customization.
+0:2:55.760 --> 0:3:0.100
+Interviewer
+So again, the four are price, quality, licensing and customization.
+0:3:6.20 --> 0:3:6.200
+Interviewer
+OK.
+0:3:2.350 --> 0:3:9.800
+Participant
+I would say that the most important thing is price an I know that it's the last important thing is quality Causeway.
+0:3:10.90 --> 0:3:16.420
+Participant
+Every sticker I've got seems to stick OK O then the next one after price would probably be.
+0:3:17.920 --> 0:3:25.130
+Participant
+Customization because I want to be able to say what I want to say and then the licensing would be the 3rd to the last important thing.
+0:3:25.860 --> 0:3:26.780
+Interviewer
+OK, cool.
+0:3:27.420 --> 0:3:30.810
+Interviewer
+And you mentioned before you have purchase stickers from stickermeat.com.
+0:3:31.570 --> 0:3:34.980
+Participant
+Yeah, last year I I used you guys.
+0:3:36.10 --> 0:3:39.710
+Participant
+I think for both times I used sticker meat.com to purchase my stickers.
+0:3:40.170 --> 0:3:40.470
+Interviewer
+OK.
+0:3:40.70 --> 0:3:42.630
+Participant
+I'd have to look it U, but I'm pretty sure that you guys.
+0:3:41.770 --> 0:3:43.660
+Interviewer
+OK, OK.
+0:3:43.670 --> 0:3:45.400
+Interviewer
+Have you ever purchased from another online vendor?
+0:3:46.670 --> 0:3:50.640
+Participant
+Yeah, I used Zillow, not Zillow.
+0:3:50.730 --> 0:3:54.270
+Participant
+What's the name of starts with a Z ZAP?
+0:3:54.280 --> 0:3:55.40
+Participant
+Zappos.
+0:3:55.600 --> 0:3:55.830
+Interviewer
+OK.
+0:3:55.480 --> 0:3:56.680
+Participant
+No, that's a shoe.
+0:3:56.920 --> 0:4:3.250
+Participant
+Anyway, there was another one that it was really cool that I used, but I didn't like the quality of their stickers, so quality was important.
+0:4:3.260 --> 0:4:6.320
+Participant
+And then, but now when if I use you guys, I don't have to worry about the quality.
+0:4:9.140 --> 0:4:15.560
+Interviewer
+And this might be redundant, but have you ever customized your own stickers, and if so, how did you go about doing it?
+0:4:16.480 --> 0:4:17.350
+Participant
+Yeah, totally.
+0:4:17.360 --> 0:4:22.370
+Participant
+So I didn't use any buddies like artwork before and try to get you guys to print something out.
+0:4:22.380 --> 0:4:25.590
+Participant
+I I came up with the artwork myself or one time.
+0:4:26.120 --> 0:4:36.230
+Participant
+My buddy peabo, he drew something I thought was pretty cool and he's got a tattoo and we kind of use the artwork from whatever he had in his arm, that tattoo to create a sticker.
+0:4:36.240 --> 0:4:37.160
+Participant
+So that was pretty awesome.
+0:4:39.660 --> 0:4:42.580
+Interviewer
+Have you ever purchased stickers as a gift for someone else?
+0:4:44.70 --> 0:4:44.550
+Participant
+Let's see.
+0:4:46.70 --> 0:4:48.510
+Participant
+Yeah, but it wasn't like for a birthday or something.
+0:4:48.520 --> 0:4:52.300
+Participant
+It was just kind of handing something out to somebody, but they were surprised by it.
+0:4:52.310 --> 0:4:53.10
+Participant
+So yeah, I did.
+0:4:53.670 --> 0:4:54.260
+Interviewer
+OK, cool.
+0:4:55.890 --> 0:4:59.620
+Interviewer
+And as far as websites are concerned, what do you look for in a sticker website?
+0:4:59.670 --> 0:5:1.150
+Interviewer
+What features are the most important to you?
+0:5:2.380 --> 0:5:7.50
+Participant
+I've got to be able to access it on my phone because that's important because I don't really.
+0:5:7.350 --> 0:5:15.430
+Participant
+My laptop's kind of not working right now, so I've got to be able to have it on my mobile and then just something that's, you know, easy.
+0:5:15.440 --> 0:5:16.300
+Participant
+Something I could.
+0:5:16.390 --> 0:5:22.760
+Participant
+I've got multiple ways to pay too, like for checking it out like PayPal and Zel and stuff.
+0:5:22.770 --> 0:5:23.810
+Participant
+I got to be able to use them all.
+0:5:24.740 --> 0:5:25.450
+Interviewer
+OK, cool.
+0:5:26.80 --> 0:5:31.50
+Interviewer
+What's your preferred navigation method when when going on a sticker website?
+0:5:33.320 --> 0:5:34.430
+Participant
+Ah, umm.
+0:5:36.230 --> 0:5:38.360
+Participant
+What do you mean by preferred navigation method?
+0:5:42.320 --> 0:5:43.860
+Participant
+Ohh like when I'm on the site.
+0:5:39.360 --> 0:5:44.740
+Interviewer
+Like, how do you find the stuff that you're looking for when you're when you're 1 device? Yeah.
+0:5:45.800 --> 0:5:48.610
+Participant
+I just preferred to to be really simple to get to.
+0:5:48.700 --> 0:5:57.300
+Participant
+You know, like a drop down menu and being able to see what I want and I think on your side is might be different, but I you can just touch on custom stickers.
+0:5:58.880 --> 0:5:59.450
+Interviewer
+OK.
+0:6:0.120 --> 0:6:5.420
+Interviewer
+And again, maybe a bit redundant, but how important is customization to you when purchasing stickers?
+0:6:6.590 --> 0:6:8.730
+Participant
+Uh, it's all about customization for me.
+0:6:9.870 --> 0:6:10.150
+Interviewer
+Yeah, cool.
+0:6:9.800 --> 0:6:11.450
+Participant
+I think it's like right next to price.
+0:6:11.460 --> 0:6:13.260
+Participant
+You know, like those two are head to head.
+0:6:14.500 --> 0:6:15.210
+Interviewer
+OK.
+0:6:15.360 --> 0:6:16.640
+Interviewer
+Well, thanks very much.
+0:6:16.650 --> 0:6:18.410
+Interviewer
+That's the end of our questions for today.
+0:6:18.920 --> 0:6:21.690
+Interviewer
+I thank you for your taking the time to participate in our research.
+0:6:21.900 --> 0:6:25.810
+Interviewer
+Your feedback is gonna help us improve our website and better serve our customers.
+0:6:25.980 --> 0:6:29.380
+Interviewer
+You have any questions, please feel free to reach out to us at any time.
+0:6:30.210 --> 0:6:30.940
+Participant
+Right on, man.
+0:6:30.950 --> 0:6:32.780
+Participant
+Hey I got a question where do I get my money?
+0:6:34.890 --> 0:6:35.700
+Interviewer
+Uh, that's a.
+0:6:35.750 --> 0:6:37.40
+Interviewer
+That's a Josie in the back.
+0:6:37.50 --> 0:6:37.190
+Interviewer
+Uh.
+0:6:37.200 --> 0:6:37.890
+Interviewer
+She'll take care of you.
+0:6:38.290 --> 0:6:39.240
+Participant
+OK, cool. Thanks.
+0:6:39.790 --> 0:6:40.30
+Interviewer
+Uh-huh.

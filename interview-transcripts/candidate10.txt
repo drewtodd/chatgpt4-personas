@@ -1,0 +1,289 @@
+-- Participant 10
+0:0:0.0 --> 0:0:0.440
+Interviewer
+OK.
+0:0:2.130 --> 0:0:2.790
+Interviewer
+Thanks, Dean.
+0:0:4.360 --> 0:0:7.270
+Interviewer
+Thank you for agreeing to participate in our research today.
+0:0:7.320 --> 0:0:10.490
+Interviewer
+My name is Andy and I'm with stickerme.com.
+0:0:11.0 --> 0:0:15.650
+Interviewer
+We're in the process of creating personas to help us better understand our customers and improve our website.
+0:0:16.100 --> 0:0:23.470
+Interviewer
+The interview should take approximately 15 minutes, will be recording the session to ensure accuracy, but we won't be sharing the recording with anyone outside of the team.
+0:0:23.820 --> 0:0:25.470
+Interviewer
+Do you have any questions before we get started?
+0:0:26.710 --> 0:0:26.930
+Dean Liou
+No.
+0:0:28.640 --> 0:0:32.210
+Interviewer
+Alright, so a couple of questions before we get into the the meat of it.
+0:0:33.180 --> 0:0:34.340
+Interviewer
+Do you use stickers?
+0:0:35.300 --> 0:0:35.880
+Dean Liou
+Uh, yes, I do.
+0:0:36.750 --> 0:0:37.290
+Interviewer
+OK, cool.
+0:0:37.960 --> 0:0:39.870
+Interviewer
+Umm can you tell me your age?
+0:0:41.10 --> 0:0:43.640
+Dean Liou
+I'm I'm 45.
+0:0:44.290 --> 0:0:44.830
+Interviewer
+OK.
+0:0:46.260 --> 0:0:47.450
+Interviewer
+And what is your occupation?
+0:0:48.740 --> 0:0:50.490
+Dean Liou
+I am a web developer.
+0:0:51.610 --> 0:0:52.380
+Interviewer
+OK.
+0:0:52.590 --> 0:0:53.830
+Interviewer
+And are you a parent?
+0:0:54.560 --> 0:0:56.290
+Dean Liou
+Yeah, I've got two daughters.
+0:0:57.10 --> 0:0:58.140
+Interviewer
+$2.00, what are their ages?
+0:0:58.790 --> 0:1:0.200
+Dean Liou
+They're 14 and 12.
+0:1:1.450 --> 0:1:2.180
+Interviewer
+OK.
+0:1:2.670 --> 0:1:5.870
+Interviewer
+And this with regards to stickers, why do you purchase stickers?
+0:1:7.460 --> 0:1:18.270
+Dean Liou
+We have this game that's going on at home to where we use stickers as awards, almost like badges like you have online, but except these are in real life.
+0:1:18.280 --> 0:1:24.110
+Dean Liou
+So whenever they do a certain thing, we've got some stickers that says you did the dishes and you get a sticker for that.
+0:1:24.120 --> 0:1:27.550
+Dean Liou
+Or it's like you took out the trash and then you'll get a sticker for that.
+0:1:27.560 --> 0:1:29.390
+Dean Liou
+And these are the stickers that we get from you guys.
+0:1:29.400 --> 0:1:32.230
+Dean Liou
+We kind of design our own, so yeah.
+0:1:34.130 --> 0:1:34.920
+Interviewer
+OK, very cool.
+0:1:37.990 --> 0:1:42.390
+Interviewer
+So what kind of stickers do your I assume again the the stickers are free.
+0:1:42.400 --> 0:1:43.150
+Interviewer
+Your daughters?
+0:1:43.330 --> 0:1:44.540
+Interviewer
+What kind of stickers do they like?
+0:1:45.810 --> 0:1:48.800
+Dean Liou
+Uh, they like the ones that are, like, real colorful.
+0:1:49.310 --> 0:1:54.470
+Dean Liou
+Also, we like the ones that are are are repositionable, so they're not permanent.
+0:1:54.530 --> 0:1:57.540
+Dean Liou
+So you've got you've got the ones that are kind of like post it notes.
+0:1:57.550 --> 0:1:58.270
+Dean Liou
+We like those kind.
+0:1:59.300 --> 0:2:0.520
+Interviewer
+OK, great.
+0:2:2.280 --> 0:2:3.950
+Interviewer
+What motivates you to purchase stickers?
+0:2:4.480 --> 0:2:6.610
+Interviewer
+Maybe a little redundant, but I'll ask the question anyway.
+0:2:6.310 --> 0:2:7.850
+Dean Liou
+Well, no, I'm.
+0:2:7.970 --> 0:2:16.730
+Dean Liou
+There's some things like your your website, it's just slightly cheaper than the rest and you guys have free shipping and you know that that free shipping really adds up.
+0:2:18.410 --> 0:2:19.40
+Interviewer
+Right.
+0:2:19.280 --> 0:2:20.810
+Interviewer
+How often do you purchase the stickers?
+0:2:22.190 --> 0:2:28.170
+Dean Liou
+I would say maybe twice a month, every two weeks.
+0:2:29.770 --> 0:2:40.460
+Interviewer
+OK, so if you had to rank in order of importance with one being the most important and four being the least important, how would you identify the following factors when purchasing stickers?
+0:2:40.610 --> 0:2:50.830
+Interviewer
+The four factors are price, quality, licensing so like Disney or Marvel superheroes or sports teams, things like that or customization.
+0:2:50.840 --> 0:2:53.880
+Interviewer
+So again, price, quality, licensing and customization.
+0:2:55.170 --> 0:2:58.600
+Dean Liou
+Uh, I would say the first thing is price because I'm cheap.
+0:2:59.220 --> 0:2:59.630
+Interviewer
+OK.
+0:2:58.710 --> 0:3:0.170
+Dean Liou
+And besides, these are for the kids.
+0:3:1.960 --> 0:3:9.730
+Dean Liou
+But the second one would actually be customization because I wanna make my own kind of stickers and we have that little game going on.
+0:3:9.740 --> 0:3:14.650
+Dean Liou
+Whether we I get to, they get to design their stickers and qualities.
+0:3:14.660 --> 0:3:22.810
+Dean Liou
+Probably the third one because it can't be junkie, but the licensing not so important to us because we're customizing our own.
+0:3:23.710 --> 0:3:25.170
+Interviewer
+Great. Perfect.
+0:3:25.260 --> 0:3:27.760
+Interviewer
+Have you purchased stickers from stickermeat.com before?
+0:3:28.320 --> 0:3:29.120
+Dean Liou
+Yes, definitely.
+0:3:30.50 --> 0:3:32.120
+Interviewer
+Have you purchased stickers from other online vendors?
+0:3:33.230 --> 0:3:33.920
+Dean Liou
+Uh, yeah.
+0:3:33.970 --> 0:3:43.190
+Dean Liou
+Well, Amazon used to offer a service where you could customize stuff, but it's actually more expensive and it's slower cause like the shooting speed is important to us.
+0:3:44.110 --> 0:3:44.700
+Interviewer
+Good, cool.
+0:3:46.480 --> 0:3:46.900
+Interviewer
+Uh.
+0:3:46.910 --> 0:3:51.500
+Interviewer
+And so I assume you have if I if I ask have you ever customize your own stickers?
+0:3:53.330 --> 0:3:53.770
+Dean Liou
+Yes.
+0:3:54.100 --> 0:3:57.310
+Dean Liou
+So that's that's the that's the thing we we really like about you guys.
+0:3:57.920 --> 0:4:6.690
+Dean Liou
+What they do is they draw the sticker on paper and then I just use my smartphone, my camera phone to take a picture of it.
+0:4:6.700 --> 0:4:17.420
+Dean Liou
+And then you guys have that, that upload ability where I can upload the sticker and then you've got some cool adjustments you can make on the website, which is really handy because sometimes the the pictures to come out so good.
+0:4:18.570 --> 0:4:18.950
+Interviewer
+OK.
+0:4:19.710 --> 0:4:22.10
+Interviewer
+Have you ever purchased stickers as a gift for someone else?
+0:4:23.160 --> 0:4:26.220
+Dean Liou
+And yet I've only really been using it for a home.
+0:4:26.230 --> 0:4:37.200
+Dean Liou
+But if you wanna say that these stickers I can give to other other parents as as like kind of like a an idea for them to to do stuff with their kids and take care of chores and stuff.
+0:4:37.210 --> 0:4:38.550
+Dean Liou
+I was thinking about doing that.
+0:4:38.560 --> 0:4:40.220
+Dean Liou
+Yeah, but so far not yet.
+0:4:41.240 --> 0:4:41.400
+Interviewer
+OK.
+0:4:42.970 --> 0:4:46.350
+Interviewer
+So with regards to websites, what do you look for in a sticker website?
+0:4:48.600 --> 0:4:50.230
+Dean Liou
+It's gotta be easy to use.
+0:4:50.280 --> 0:4:57.430
+Dean Liou
+I don't wanna have to read a manual to figure out how to operate the customization parts that you've got, and that's pretty good.
+0:4:57.550 --> 0:4:58.730
+Dean Liou
+I was able to figure that out.
+0:4:59.730 --> 0:5:0.30
+Dean Liou
+Uh.
+0:5:0.230 --> 0:5:1.590
+Dean Liou
+Also, it's needs to be fast.
+0:5:2.80 --> 0:5:2.540
+Dean Liou
+Umm.
+0:5:3.40 --> 0:5:7.830
+Dean Liou
+If it's, if it's like hanging and kind of buggy and slow, I don't have time for that.
+0:5:9.860 --> 0:5:10.230
+Interviewer
+Right.
+0:5:10.670 --> 0:5:14.270
+Interviewer
+How do you prefer to navigate a website when you're looking to purchase stickers?
+0:5:15.950 --> 0:5:30.960
+Dean Liou
+Umm, they've got you've got some other other customization, a bit able, like size of the stickers and the type of the the sticky material on the back because I was telling you about how I like the repositionable stickers because I don't want them to be stuck forever.
+0:5:31.410 --> 0:5:38.700
+Dean Liou
+So, like, yeah, sticker types that I like the filters to be able to filter by that kind of stuff, and also by price.
+0:5:38.850 --> 0:5:43.740
+Dean Liou
+So like just being able to do all of those with my customized stickers, that's important.
+0:5:44.730 --> 0:5:53.540
+Interviewer
+Or alright, last question, maybe a bit redundant, but if you could clarify how important is customization to you when purchasing stickers.
+0:5:54.120 --> 0:6:7.910
+Dean Liou
+That is like top of the list next to right after price, so it is important and it you guys need to have that functionality even if you guys were the cheapest sticker company available and didn't have customization, it would still be a deal breaker.
+0:6:7.920 --> 0:6:10.430
+Dean Liou
+So it is very important that I can customize stickers.
+0:6:11.400 --> 0:6:14.310
+Interviewer
+OK, that's the end of our questions for today.
+0:6:14.320 --> 0:6:17.390
+Interviewer
+Thanks so much for taking time to participate in this research.
+0:6:17.520 --> 0:6:20.830
+Interviewer
+Your feedback will help us improve our website and better serve our customers.
+0:6:21.100 --> 0:6:23.800
+Interviewer
+If you have any questions, please feel free to reach out anytime.
+0:6:24.930 --> 0:6:25.400
+Dean Liou
+Sounds good.
+0:6:25.410 --> 0:6:26.130
+Dean Liou
+Thank you for having me.
